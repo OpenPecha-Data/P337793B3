@@ -1,0 +1,29 @@
+id: P337793B3
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA25159
+  instance_id: http://purl.bdrc.io/resource/IE25159
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དག་ཡིག་ཕྱོགས་བསྒྲིགས་མུ་ཏིག་ཚོམ་བུ།
+  alt_title: {}
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    b8999c448a3e46c1ada54fa40eff03de:
+      title: པོད ༡་དག་ཡིག་ཕྱོགས་བསྒྲིགས་མུ་ཏིག་ཚོམ་བུ།
+      volume_number: 1
+      base_file: UT25159_4734_0000.txt
+      reference: http://purl.bdrc.io/resource/VLEB1EB773B4DCFDB0
+      image_group: '4734'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W25159
+  - http://purl.bdrc.io/resource/MW25159
+  ocr_software: Namsel
+created_at: '2021-12-22T11:10:27.288531'
+last_modified_at: '2021-12-22T11:10:27.288539'
